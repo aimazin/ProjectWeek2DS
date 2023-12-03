@@ -16,3 +16,8 @@ MNIST_data.zip 1. MNIST_train.csv - a subset of the MNIST data used for training
 # Result
 
 Due to the added variable and hence the increase in precision relative the accuracy observed made the choice for the Non-Naive Gaussian Bayes Classifier, an easy one.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
